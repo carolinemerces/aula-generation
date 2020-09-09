@@ -1,2 +1,2 @@
 # repositorioportugol
-Aulas desenvolvidas no curso da Generation
+Exercícios desenvolvidos no Bootcamp Generation
